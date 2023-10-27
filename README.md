@@ -13,6 +13,8 @@ Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilida
 - 💬 Tenho habilidades sólidas de comunicação e posso trabalhar efetivamente em equipe e também comunicar conceitos técnicos de forma clara e concisa.
 - 🌱 Adoro aprender coisas novas e estou constantemente explorando novas tecnologias e ferramentas.
 
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 ## Tecnologias e Ferramentas
 
 - JavaScript
