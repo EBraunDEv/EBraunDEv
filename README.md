@@ -30,6 +30,6 @@ Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilida
 
 - LinkedIn: [Elmo Braun](https://linkedin.com/in/elmo-braum-81170b275)
 - Twitter: [@elmobraun](https://twitter.com/Dev_BraunElmo)
--[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]: [elmo.braundev@gmail.com](mailto:elmo.braundev@gmail.com)
+-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] [elmo.braundev@gmail.com](mailto:elmo.braundev@gmail.com)
 
 Fique à vontade para me seguir no GitHub e entrar em contato comigo para discutir colaborações, projetos ou apenas para trocar ideias. Estou sempre aberto a novas oportunidades e estou ansioso para aprender e crescer juntos no mundo do desenvolvimento!
