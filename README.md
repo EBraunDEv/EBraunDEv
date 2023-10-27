@@ -2,8 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/elmobraun?label=Seguidores&style=social)
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow%20%40Dev_BraunElmo-blue)](https://twitter.com/Dev_BraunElmo)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20%40elmo.braun-orange)](https://www.instagram.com/elmo.braun/)
+![Twitter Follow](https://img.shields.io/badge/Twitter-Follow%20%40Dev_BraunElmo-blue)](https://twitter.com/Dev_BraunElmo)
+![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20%40elmo.braun-orange)](https://www.instagram.com/elmo.braun/)
 
 Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilidades. Com boa comunicação e uma sede constante de conhecimento, estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades de programação.
 
