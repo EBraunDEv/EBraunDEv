@@ -2,6 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/elmobraun?label=Seguidores&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/elmobraun?style=social)
+![Instagran Follow] (https://www.instagram.com/elmo.braun/)
 
 Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilidades. Com boa comunicação e uma sede constante de conhecimento, estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades de programação.
 
