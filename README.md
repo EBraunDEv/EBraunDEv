@@ -26,7 +26,7 @@ Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilida
 
 ## Como Entrar em Contato
 
-- LinkedIn: [Elmo Braun](https://www.linkedin.com/in/elmobraun)
+- LinkedIn: [Elmo Braun](www.linkedin.com/in/elmo-braum-81170b275)
 - Twitter: [@elmobraun](https://twitter.com/elmobraun)
 - Email: [seuemail@email.com](mailto:elmo.braundev@gmail.com)
 
