@@ -30,4 +30,4 @@ Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilida
 - Twitter: [@elmobraun]([https://twitter.com/elmobraun](https://twitter.com/Dev_BraunElmo)
 - Email: [elmo.braundev@gmail.com](mailto:elmo.braundev@gmail.com)
 
-Fique à vontade para me seguir no GitHub e entrar em contato comigo para discutir colaborações, projetos ou apenas para trocar ideias. Estou sempre aberto a novas oportunidades e estou ansioso para aprender e crescer juntos no mundo do desenvolvimento web!
+Fique à vontade para me seguir no GitHub e entrar em contato comigo para discutir colaborações, projetos ou apenas para trocar ideias. Estou sempre aberto a novas oportunidades e estou ansioso para aprender e crescer juntos no mundo do desenvolvimento!
