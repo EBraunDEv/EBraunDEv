@@ -8,7 +8,7 @@ Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilida
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente, estou trabalhando em vários projetos de desenvolvimento web usando JavaScript, HTML, CSS e outras tecnologias relacionadas.
+- 👨‍💻 Atualmente, estou trabalhando em vários projetos de desenvolvimento web usando JavaScript, React e React Native e outras tecnologias relacionadas.
 - 📚 Estou sempre estudando e acompanhando as últimas tendências e avanços na área de desenvolvimento web.
 - 💬 Tenho habilidades sólidas de comunicação e posso trabalhar efetivamente em equipe e também comunicar conceitos técnicos de forma clara e concisa.
 - 🌱 Adoro aprender coisas novas e estou constantemente explorando novas tecnologias e ferramentas.
