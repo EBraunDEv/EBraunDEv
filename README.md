@@ -29,7 +29,7 @@ Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilida
 ## Como Entrar em Contato
 
 - LinkedIn: [Elmo Braun](https://linkedin.com/in/elmo-braum-81170b275)
-- Twitter: [@elmobraun]([https://twitter.com/elmobraun](https://twitter.com/Dev_BraunElmo)
+- Twitter: [@elmobraun](https://twitter.com/Dev_BraunElmo)
 - Email: [elmo.braundev@gmail.com](mailto:elmo.braundev@gmail.com)
 
 Fique à vontade para me seguir no GitHub e entrar em contato comigo para discutir colaborações, projetos ou apenas para trocar ideias. Estou sempre aberto a novas oportunidades e estou ansioso para aprender e crescer juntos no mundo do desenvolvimento!
