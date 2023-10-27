@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/elmobraun?label=Seguidores&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/elmobraun?style=social)
-![Instagran Follow] (https://www.instagram.com/elmo.braun/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow%20%40elmo.braun-orange)](https://www.instagram.com/elmo.braun/)
 
 Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilidades. Com boa comunicação e uma sede constante de conhecimento, estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades de programação.
 
@@ -28,6 +28,6 @@ Sou um programador JavaScript apaixonado por aprender e melhorar minhas habilida
 
 - LinkedIn: [Elmo Braun](https://www.linkedin.com/in/elmobraun)
 - Twitter: [@elmobraun](https://twitter.com/elmobraun)
-- Email: [seuemail@email.com](mailto:seuemail@email.com)
+- Email: [seuemail@email.com](mailto:elmo.braundev@gmail.com)
 
 Fique à vontade para me seguir no GitHub e entrar em contato comigo para discutir colaborações, projetos ou apenas para trocar ideias. Estou sempre aberto a novas oportunidades e estou ansioso para aprender e crescer juntos no mundo do desenvolvimento web!
